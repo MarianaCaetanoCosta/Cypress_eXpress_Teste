@@ -65,3 +65,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 - `cypress/e2e/` - Contém os arquivos de teste (`.cy.js` ou `.cy.ts`).
 - `cypress/support/` - Comandos customizados e configurações globais.
 - `cypress/fixtures/` - Massa de dados mockados para os testes.
+
+##  📄 Licença
+
+Este projeto é destinado a fins de estudo, prática profissional e demonstração de conhecimentos em automação de testes.
